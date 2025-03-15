@@ -175,7 +175,7 @@ cursor: pointer;}
 }
 .footer{
   min-height: 432px;
-  background: url(footer-background.svg);
+  background: url(/footer-background.svg);
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
